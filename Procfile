@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser Stockmarketanalysisproject_main-checkpoint (1).ipynb
